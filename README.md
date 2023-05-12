@@ -25,7 +25,7 @@ pip install geopandas
 pip install contextily
 pip install pyproj
 pip install openpyxl
-```bash
+```
 
 Please note, if you have multiple Python versions installed on your computer, you might need to use pip3 instead of pip.
 
