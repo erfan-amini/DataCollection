@@ -32,7 +32,7 @@ Please note, if you have multiple Python versions installed on your computer, yo
 ### Data
 You need to have your data in an Excel file. The code expects the file to be named 'GPSdata.xlsx' and located in the same directory as the Python script. The Excel file should have at least four columns: easting, northing, elevation, and category. The easting and northing should be in the New Jersey State Plane coordinate system (US Survey Feet).
 
-How to Run the Code
+### How to Run the Code
 Once you have Python and the necessary libraries installed, and you have your data in the correct format, you can run the code.
 
 If you are running the code from a terminal, navigate to the directory containing the Python script and type:
