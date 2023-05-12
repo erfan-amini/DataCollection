@@ -37,9 +37,11 @@ Once you have Python and the necessary libraries installed, and you have your da
 
 If you are running the code from a terminal, navigate to the directory containing the Python script and type:
 
-### bash
+```bash
 Copy code
 python GPSdata.py
+```
+
 If you are running the code from an Integrated Development Environment (IDE) like PyCharm or a notebook interface like Jupyter Notebook, you can simply open the script in the IDE or notebook and run it from there.
 
 ### Code Explanation
@@ -54,6 +56,8 @@ Sets the labels for the x and y axes as "Longitude" and "Latitude".
 Zooms into the area where the data points are.
 Adds a basemap (a map background) from OpenStreetMap.
 Displays the plot.
+
+
 Author
 Erfan Amini
 Davidson Lab, Stevens Institute of Technology
