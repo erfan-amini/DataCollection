@@ -38,7 +38,6 @@ Once you have Python and the necessary libraries installed, and you have your da
 If you are running the code from a terminal, navigate to the directory containing the Python script and type:
 
 ```bash
-Copy code
 python GPSdata.py
 ```
 
