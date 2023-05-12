@@ -26,7 +26,7 @@ gdf.set_crs("EPSG:4326", inplace=True)
 
 # Plot the data
 fig, ax = plt.subplots(figsize=(10, 10))
-gdf.plot(ax=ax, column='category', legend=True, alpha=1, markersize=30)
+gdf.plot(ax=ax, column='category', legend=True, alpha=1, markersize=30, marker='s')
 
 # Set x and y labels
 ax.set_xlabel("Longitude")
