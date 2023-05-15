@@ -1,4 +1,4 @@
-# Python Code to Plot New Jersey GPS Data on a Map
+# Python Code to Plot New Jersey GPS Data
 
 This Python code reads GPS data from an Excel file, converts the coordinates from the New Jersey State Plane coordinate system to the global WGS84 system, and then plots the data on a map. The data points are colored based on categories.
 
